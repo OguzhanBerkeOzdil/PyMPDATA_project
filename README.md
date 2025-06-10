@@ -1,3 +1,3 @@
 # PyMPDATA_project
 
-*This is PR branch*
+*This is master branch*
